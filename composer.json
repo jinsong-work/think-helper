@@ -1,0 +1,27 @@
+{
+    "name": "mnytool/think-helper",
+    "description": "The ThinkPHP5 Helper Package",
+    "type": "library",
+    "support":{
+        "issues":"https://gitee.com/mnykj/mnyadmin.php.git"
+    },
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "think\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "八级天",
+            "email": "211983651@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

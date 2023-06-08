@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+*.log
+.user.ini
+.env
+.DS_Store
+/runtime/*
+*.htaccess
+/vendor
